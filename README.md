@@ -1,4 +1,4 @@
-An online attendance system using Java which includes:
+An online examination system using Java which includes:
 
 Secure User Authentication: Includes login functionality and the ability to update profiles and passwords.
 
